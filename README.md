@@ -1,16 +1,16 @@
-# Balance
+# isomorphic
 
-This project is named spring balance.
+This project is named isomorphic.
 
 ## APP
 
-![spring](asserts/styles/images/spring.png)
+![string](asserts/images/string.png)
 
 ## ABOUT
 
-The spring balance enables the user to input two diffrent masses.
-another field is reserve to input a list of number that we help us
-balance the masses if they are unbalance.
+This app compare two strings of identical length
+and return true if they are isomorphic else it
+returns false
 
 ## Built With
 
