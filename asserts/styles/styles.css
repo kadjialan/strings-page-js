@@ -32,16 +32,32 @@ input {
   align-items: center;
   justify-content: center;
   min-height: 600px;
+  text-align: center;
 }
 
 .content {
   height: 70px;
-  width: 150px;
+  width: 250px;
   border: 1px solid black;
   margin-top: 15px;
   justify-content: center;
   align-items: center;
   display: flex;
   flex-direction: column;
-  color: blue;
+  font-size: 23px;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 375px) {
+  input {
+   width: 200px;
+  }
+
+  .content {
+    width: 240px;
+  }
+
+  .main {
+    padding: 0 20px;
+  }
 }

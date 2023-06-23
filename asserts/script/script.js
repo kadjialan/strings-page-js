@@ -29,7 +29,7 @@ submit.addEventListener('click', () => {
   message.classList.remove('hide')
   const str2 = secondString.value
   if (str1.length !== str2.length || str1 === '') {
-    message.innerHTML = 'Please enter strings of the same length'
+    message.innerHTML = 'Please enter strings of equal length'
   } else {
     checkForIsophorms(str1, str2)
 
@@ -39,4 +39,3 @@ submit.addEventListener('click', () => {
   firstString.value = ''
   secondString.value = ''
 })
-
