@@ -1,16 +1,16 @@
-# Balance
+# isomorphic
 
-This project is named spring balance.
+This project is named isomorphic.
 
 ## APP
 
-![spring](asserts/styles/images/spring.png)
+![string](asserts/images/string.png)
 
 ## ABOUT
 
-The spring balance enables the user to input two diffrent masses.
-another field is reserve to input a list of number that we help us
-balance the masses if they are unbalance.
+This app compare two strings of identical length
+and return true if they are isomorphic else it
+returns false
 
 ## Built With
 
@@ -22,13 +22,13 @@ balance the masses if they are unbalance.
 
 - To get a local copy up and running follow these simple example steps.
 - Clone this repository with
-`https://github.com/kadjialan/balance-page-js` using your terminal.
+`https://github.com/kadjialan/strings-page-js` using your terminal.
 - Change to the project directory by entering: cd wedding in the terminal.
 
 ## Command-line steps
 
-- $ git clone `$ https://github.com/kadjialan/balance-page-js`
-- $ `cd balance`
+- $ git clone `$ https://github.com/kadjialan/strings-page-js`
+- $ `cd string`
 - $ `git checkout feature/design`
 
 ## Start App
@@ -45,7 +45,7 @@ Knowledge about:
 
 ## Live Site
 
-[Link]( https://kadjialan.github.io/balance-page-js/)
+[Link]( https://kadjialan.github.io/strings-page-js/)
 
 ## Author
 
@@ -57,7 +57,7 @@ Knowledge about:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kadjialan/balance-page-js/issues).
+Feel free to check the [issues page](https://github.com/kadjialan/strings-page-js/issues).
 
 ## Show your support
 
